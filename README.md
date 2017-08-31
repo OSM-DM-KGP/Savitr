@@ -14,5 +14,3 @@ Have a `mongod` instance running in a terminal. Now, in 2 separate terminals:
 npm run server:start
 npm run client:dev
 ```
-
-
