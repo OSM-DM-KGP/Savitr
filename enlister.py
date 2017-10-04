@@ -10,8 +10,8 @@ def enlist():
     outstr = list()
     i = 0
     for each in l:
-        if each == '' or each[-2]!='}':
-            break
+        if each == '' or each[-2] != '}' or each[0]!= '{':
+            continue
         print(i)
         j = json.loads(each)
         outstr.append('{"index":{"_index":"twitter","_type":"tweet","_id":' + j['_id'] + '}}')
