@@ -77,6 +77,7 @@ class Map extends Component {
     // re-render heatmap only if search was changed
     if (prevProps.searchUUID !== searchUUID) {
       const vectorSource = this._getMapVectorSource(tweets);
+      console.log('VECTOR', vectorSource);
       this._heatMapLayer.setSource(vectorSource);
       this._clusterLayer.setSource(new ol.source.Cluster({
         source: vectorSource,
@@ -137,6 +138,7 @@ class Map extends Component {
       title: CLUSTER_LAYER_NAME,
       style: feature => {
         // TBD: change radius and color based on how many tweets are there
+        console.log('FEATURE', feature);
         const size = feature.get('features').length;
         let style = styleCache[size];
         if (!style) {

@@ -36,49 +36,66 @@ class SlidePanel extends Component {
     return (
       <LeftNav open={this.props.visible} className="tgv-slidePanel">
         <h3>{this.props.header}</h3>
-        <SlidePanelSocial />
+        {/*
+           Remove social media
+          <SlidePanelSocial />
+        */}
         <h4>{T__('mapPage.slidePanel.header')}</h4>
         <ul>
-          <li>
-            <SelectField
-              value={selectedLanguage.code}
-              floatingLabelText={T__('mapPage.slidePanel.languageSelector.label')}
-              style={sizeStyle}
-              floatingLabelStyle={floatingLabelStyle}
-              labelStyle={textStyle}
-              onChange={(event, index, value) =>
-                onChange('selectedLanguageCode', value)
-              }
-            >
-              {
-                languages.map(language => <MenuItem
-                  value={language.code}
-                  key={language.code}
-                  primaryText={language.name}
-                />)
-              }
-            </SelectField>
-          </li>
-          <li>
-            <Checkbox
-              label={T__('mapPage.slidePanel.mapClick.label')}
-              labelPosition="left"
-              className="tgv-slidePanel-control-width"
-              labelStyle={textStyle}
-              checked={isMapClickEnabled}
-              onCheck={(event, value) => onChange('isMapClickEnabled', value)}
-            />
-          </li>
-          <li>
-            <Checkbox
-              label={T__('mapPage.slidePanel.showFilter.label')}
-              labelPosition="left"
-              className="tgv-slidePanel-control-width"
-              labelStyle={textStyle}
-              checked={this.props.showFilter}
-              onCheck={(event, value) => onChange('showFilter', value)}
-            />
-          </li>
+          {/*
+            Remove language choice for now
+            <li>
+              <SelectField
+                value={selectedLanguage.code}
+                floatingLabelText={T__('mapPage.slidePanel.languageSelector.label')}
+                style={sizeStyle}
+                floatingLabelStyle={floatingLabelStyle}
+                labelStyle={textStyle}
+                onChange={(event, index, value) =>
+                  onChange('selectedLanguageCode', value)
+                }
+              >
+                {
+                  languages.map(language => <MenuItem
+                    value={language.code}
+                    key={language.code}
+                    primaryText={language.name}
+                  />)
+                }
+              </SelectField>
+            </li>
+          */}
+
+          {/*
+            Enable map-click disabled
+            <li>
+              <Checkbox
+                label={T__('mapPage.slidePanel.mapClick.label')}
+                labelPosition="left"
+                className="tgv-slidePanel-control-width"
+                labelStyle={textStyle}
+                checked={isMapClickEnabled}
+                onCheck={(event, value) => onChange('isMapClickEnabled', value)}
+              />
+            </li>
+          */}
+
+          {/*
+            disable non-filtering option in clicked tweets
+            <li>
+              <Checkbox
+                label={T__('mapPage.slidePanel.showFilter.label')}
+                labelPosition="left"
+                className="tgv-slidePanel-control-width"
+                labelStyle={textStyle}
+                checked={this.props.showFilter}
+                onCheck={(event, value) => onChange('showFilter', value)}
+              />
+            </li>
+          */}
+
+          {/*
+            disable not showing timestamp in tweets
           <li>
             <Checkbox
               label={T__('mapPage.slidePanel.showTimeStamps.label')}
@@ -89,6 +106,7 @@ class SlidePanel extends Component {
               onCheck={(event, value) => onChange('showTimeStamps', value)}
             />
           </li>
+          */}
           <li>
             <TextField
               floatingLabelText={T__('mapPage.slidePanel.clickRadius.label')}
@@ -133,7 +151,10 @@ class SlidePanel extends Component {
         </ul>
         <div>
           <p>{T__('mapPage.slidePanel.footer1')}</p>
-          <p>{T__('mapPage.slidePanel.footer2')}</p>
+          {/*
+            <p>{T__('mapPage.slidePanel.footer2')}</p>
+          */}
+          <p>{T__('mapPage.slidePanel.footer3')}</p>
           <p>
             <span className="label label-primary">v{this.props.version}</span>
           </p>

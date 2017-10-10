@@ -13,15 +13,15 @@ const initialState = {
   clickRadius: 250,
   layers: [
     {
-      label: HEATMAP_LAYER_NAME,
-      value: 1
-    },
-    {
       label: CLUSTER_LAYER_NAME,
       value: 2
+    },
+    {
+      label: HEATMAP_LAYER_NAME,
+      value: 1
     }
   ],
-  selectedLayer: 1
+  selectedLayer: 2
 };
 
 export default function map(state = initialState, action) {

@@ -17,8 +17,10 @@ export const httpCodes = {
 };
 export const mongoConfig = {
   server: 'mongodb://127.0.0.1:27017/',
-  databaseName: 'twitter',
-  collection: 'ControlTweets',
+  // databaseName: 'twitter',
+  // collection: 'ControlTweets',
+  databaseName: 'test',
+  collection: 'tweets_collection',
   connectionOptions: {
     server: {
       auto_reconnect: true,

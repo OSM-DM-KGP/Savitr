@@ -118,6 +118,9 @@ export default {
         en: 'A product of collaboration between HealthMap.org (Boston Children&#39;s Hospital), Mozilla Science Lab and our community.',
         es: 'Resultado de la colaboración entre HealthMap.org (Hospital de Niños de Boston), Mozilla Science Lab y nuestra comunidad.',
         ru: 'Продукт сотрудничества между HealthMap.org (Бостонской Детской Больницы), Mozilla Science Lab и нашего сообщества.'
+      },
+      footer3: {
+        en: 'Specifically for India in response to pre-disaster situations',
       }
     },
     dataPopup: {

@@ -1,9 +1,13 @@
 {
-  "name": "TweetGeoViz",
-  "version": "0.5.0",
+  "name": "Savitr",
+  "version": "0.0.1",
   "description": "Visualization tool to view tweets by location and content.",
-  "author": "Jared Hawkins",
+  "author": "Kaustubh Hiware",
   "contributors": [
+    {
+      "name": "Kaustubh Hiware",
+      "email": "hiwarekaustubh@gmail.com"
+    },
     {
       "name": "Alexey Novak",
       "email": "alexey.novak.mail@gmail.com"
@@ -35,14 +39,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JaredHawkins/TweetGeoViz"
+    "url": "https://github.com/kaustubhhiware/Savitr"
   },
   "keywords": [
     "tweets",
     "map"
   ],
   "bugs": {
-    "url": "https://github.com/JaredHawkins/TweetGeoViz/issues"
+    "url": "https://github.com/kaustubhhiware/Savitr/issues"
   },
   "dependencies": {
     "body-parser": "1.11.0",
@@ -103,7 +107,7 @@
     "nodemon": "1.8.1",
     "redux-immutable-state-invariant": "1.2.0",
     "redux-logger": "2.3.2",
-    "rimraf": "2.3.4",
+    "rimraf": "^2.6.2",
     "sass-loader": "3.1.2",
     "style-loader": "0.13.0",
     "url-loader": "0.5.7",

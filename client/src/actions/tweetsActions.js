@@ -22,6 +22,7 @@ const shouldFetchTweets = (state, searchString) => {
   return previousSearchString !== searchString;
 };
 
+{/*SET INIT CONDITION HERE */}
 export const fetchTweets = (options = {}) => {
   const {
     searchString = '',
@@ -52,6 +53,7 @@ export const fetchTweets = (options = {}) => {
         dispatch(
           showToast(T__('mapPage.toaster.foundTweets', geoJSON.features.length))
         );
+        console.log('MORTY', result);
       })
       .catch(error => dispatch(showToast(error)));
   };
