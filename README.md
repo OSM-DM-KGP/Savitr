@@ -98,7 +98,7 @@ curl -XPUT http://localhost:9200/twitter -d '
  * Upload
 
   ```
-curl -XPUT localhost:9200/_bulk --data-binary @output.json
+`curl -XPUT localhost:9200/_bulk --data-binary @output.json`
 ```
 
 You can check if it worked by going on http://localhost:9200/_cat/indices?v
@@ -106,7 +106,7 @@ You can check if it worked by going on http://localhost:9200/_cat/indices?v
 
 Once you get Kibana up and running, navigate to `localhost:5601` > Dev tools and write down the following query:
 ```
-GET twitter/_search
+`GET twitter/_search`
 {
   "query": {
     "match_all": {}
@@ -123,3 +123,8 @@ Create a visulization using t_location as geohash. The resulting product looks l
 ![](images/kibana_geopoint.png)
 
 We've managed to get our system running. [Install postman](https://blog.bluematador.com/posts/postman-how-to-install-on-ubuntu-1604/) for later use.
+
+
+## mongo query dump
+
+* `db.getCollection('tweets_collection').find({$text: {$search: "disaster"}})`

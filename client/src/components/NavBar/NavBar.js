@@ -13,14 +13,19 @@ import DropUpIcon from 'material-ui/lib/svg-icons/navigation/arrow-drop-up';
 import IconButton from 'material-ui/lib/icon-button';
 import DatePicker from 'material-ui/lib/date-picker/date-picker';
 import CloseIcon from 'material-ui/lib/svg-icons/navigation/close';
+import { DataPopupRow, NoDataRow } from '../';
 import { T__ } from '../../reducers/language.js';
 import { MIN_QUERY_LENGTH } from '../../constants/config.js';
 
 class NavBar extends Component {
   render() {
     const {
+      data = [],
+      noDataText,
+      rowClass = 'tweetText',
       searchString = '',
-      onChange
+      onChange,
+      filterText
     } = this.props;
 
     const styles = {
@@ -161,110 +166,35 @@ class NavBar extends Component {
         
         <div className="hidden-xs col-sm-1 col-md-1 col-lg-1"></div>
         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 tgv-nav">
-          <Paper className="container-fluid">
-            <div className="row">
-              <div className="hidden-xs col-sm-1 col-md-1 col-lg-1"></div>
-              <div className="col-xs-1 col-sm-1 hidden-lg hidden-md hidden-lg col-xs-offset-1 text-right no-padding-left-right">
-                <IconButton
-                  disabled={searchString.length < MIN_QUERY_LENGTH}
-                  onClick={this.props.onClickSearch}
-                >
-                  <ActionSearch />
-                </IconButton>
-              </div>
-              <div className="col-xs-5 col-sm-4 col-md-4 col-lg-4 no-padding-left-right">
-                <TextField
-                  hintText={T__('mapPage.navBar.searchInput.placeholder')}
-                  fullWidth={false}
-                  value={searchString}
-                  onEnterKeyDown={this.props.onEnterKeyDown}
-                  onFocus={this.props.onFocus}
-                  onChange={event => {
-                    const { value } = event.target;
-                    onChange('searchString', value);
-                  }}
-                />
-              </div>
-              <div className="col-xs-2 col-sm-2 col-md-2 col-lg-1 col-sm-offset-2 col-md-offset-2 col-lg-offset-4 text-right no-padding-left-right">
-                <IconButton
-                  tooltip={
-                    this.props.showAdvanced
-                    ? T__('mapPage.navBar.advancedMenuButton.hideToolTip')
-                    : T__('mapPage.navBar.advancedMenuButton.showToolTip')
-                  }
-                  touch={true}
-                  tooltipPosition="bottom-left"
-                  onClick={this.props.onClickAdvanced}
-                >
-                  {
-                    this.props.showAdvanced
-                    ? <DropUpIcon />
-                    : <DropDownIcon />
-                  }
-                </IconButton>
-              </div>
-            </div>
-            {
-              this.props.showAdvanced ?
-              <div className="row"><Divider /></div>
-              : null
-            }
-            {
-              this.props.showAdvanced ?
-              <div className="row">
-                <div className="col-xs-3 col-sm-3 col-md-2 col-lg-2">
-                  <p className="padding-top-xs">Start Date:</p>
-                </div>
-                <div className="col-xs-7 col-sm-7 col-md-8 col-lg-8">
-                  <DatePicker
-                    hintText={T__('mapPage.navBar.startDate.hintText')}
-                    maxDate={this.props.endDate || new Date()}
-                    value={this.props.startDate}
-                    className="tgv-datePicker"
-                    onChange={(event, value) => onChange('startDate', value)}
-                  />
-                </div>
-                <div className="col-xs-2 col-sm-2 col-md-2 col-lg-2 text-right no-padding-left-right">
-                  <IconButton
-                    tooltip={T__('mapPage.navBar.startDate.tooltip')}
-                    touch={true}
-                    onClick={() => onChange('startDate', undefined)}
-                  >
-                    <CloseIcon />
-                  </IconButton>
-                </div>
-              </div>
-              : null
-            }
-            {
-              this.props.showAdvanced ?
-              <div className="row">
-                <div className="col-xs-3 col-sm-3 col-md-2 col-lg-2">
-                  <p className="padding-top-xs">End Date:</p>
-                </div>
-                <div className="col-xs-7 col-sm-7 col-md-8 col-lg-8">
-                  <DatePicker
-                    hintText={T__('mapPage.navBar.endDate.hintText')}
-                    minDate={this.props.startDate}
-                    value={this.props.endDate}
-                    className="tgv-datePicker"
-                    maxDate={new Date()}
-                    onChange={(event, value) => onChange('endDate', value)}
-                  />
-                </div>
-                <div className="col-xs-2 col-sm-2 col-md-2 col-lg-2 text-right no-padding-left-right">
-                  <IconButton
-                    tooltip={T__('mapPage.navBar.endDate.tooltip')}
-                    touch={true}
-                    onClick={() => onChange('endDate', undefined)}
-                  >
-                    <CloseIcon />
-                  </IconButton>
-                </div>
-              </div>
-              : null
-            }
+          <Paper className="panel-body filter-panel">
+            <TextField
+              hintText={T__('Untagged tweets')}
+              fullWidth={true}
+              value={filterText}
+              onChange={event => {
+                  const { value } = event.target;
+                  onChange('filterText', value.trim());
+                }}
+             />
           </Paper>
+          {/*
+          <div className="panel-body tweet-panel">
+            <ul>
+              {
+                data.length ?
+                data.map(feature => <DataPopupRow
+                  showTimeStamps={true}
+                  timeStamp={feature.timeStamp}
+                  text={feature.textHTML}
+                  rowClass={rowClass}
+                  key={feature.id}
+                />)
+                : <NoDataRow noDataText={noDataText} rowClass={rowClass} />
+              }
+            </ul>
+          </div>
+        */}
+
         </div>
       </div>
     );
@@ -272,13 +202,18 @@ class NavBar extends Component {
 }
 
 NavBar.propTypes = {
+  data: PropTypes.array,
+  filterText: PropTypes.string,
+  noDataText: PropTypes.string,
   onClickMenu: PropTypes.func.isRequired,
   onChange: PropTypes.func.isRequired,
   onEnterKeyDown: PropTypes.func.isRequired,
   onClickSearch: PropTypes.func.isRequired,
   onFocus: PropTypes.func.isRequired,
+  rowClass: PropTypes.string,
   searchString: PropTypes.string,
-  showAdvanced: PropTypes.bool
+  showAdvanced: PropTypes.bool,
+  onChange: PropTypes.func.isRequired
 };
 
-export default NavBar;
+export default NavBar; 
