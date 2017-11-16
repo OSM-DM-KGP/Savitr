@@ -1,6 +1,7 @@
 healthmap_geoTweets.json
 twitter.json
-data/
+data/Tagged/
+data/Untagged/
 # Logs
 logs
 *.log
@@ -28,8 +29,7 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 
-# temp removal
-# node_modules
+node_modules
 
 # npm log file
 npm-debug.log

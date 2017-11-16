@@ -1,9 +1,3 @@
-* Dumping data from mongo: `mongodump --db test --collection tweets_collection -o /home/kaustubh/`
-
-Data stored in .bson format in ~/test/
-
-* Convert bson to json: `bsondump tweets_collection.bson > tweets_collection.json `
-
 * Bad list of words here: http://www.healthmap.org/en/
 
 * Basic idea: X pe time, Y be frequency, additional, point size represents frequency additionally
@@ -21,3 +15,5 @@ Data stored in .bson format in ~/test/
 * https://cesiumjs.org/demos/
 
 * linear chart: https://bl.ocks.org/mbostock/3883245
+
+* stream: http://bl.ocks.org/mbostock/582915

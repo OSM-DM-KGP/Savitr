@@ -1,0 +1,14 @@
+Hiware 
+
+consumer_key: '5m2euOBDU4bF37egHFe5wGlcA',
+consumer_secret: 'X0KKFNvtL2ltSLOqR1HhSArZyNylSmaafXb1F5HTXlVfOl2yBa',
+access_token_key: '898515053757865984-ZXkbfaHt64RKUEE1q4mOZrmNuwaG8vV',
+access_token_secret: 'vMhaorwHGJOHgTq3EIFBOYTAauywfAdegOlr66ejeADuY'
+
+Avijit
+
+Consumer Key (API Key)	MtAeAEMSnA9N5g7kMCTSpPN4j
+Consumer Secret (API Secret)ONFRAD0iXTi9s4MkRY1DNJr6aWKypHRB5QLQIhip9LL5giBDD2
+Access Token	454511467-1TTw0sjsgH7ob2T7LQb9E9xttvsUVWqZSqEdMWSj
+Access Token Secret	6cB6zZ4kAOcxG5f2MBazSoa0oVZ4D0Sh9ZHNOnwle3L7z
+

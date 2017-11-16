@@ -19,6 +19,7 @@ export function getTweets(options = {}) {
       $search: `"${searchQuery}"` // double quotes helps to search phrases with a space
     },
     "plt": {$exists: true}
+    // "plt": {$ne: ""}
   };
 
   if (startDate) {
