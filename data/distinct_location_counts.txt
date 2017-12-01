@@ -1,0 +1,634 @@
+god	71
+dane	1
+nina	2
+haridwar	1
+padang	6
+sinai	1
+deganga	8
+kolar	17
+mandya	14
+srinagar	10
+ghana	113
+led	1
+toa	2
+chakwal	1
+uppal railroad station	2
+gurgaon	37
+ur	4
+thala	37
+nevada	9
+koramangala	5
+periyapet	2
+binan	1
+agoada	1
+jamnagar	1
+kolathur	2
+madras	3
+samastipur	1
+milan	1
+sahel	6
+thiruvananthapuram	24
+tihar	1
+dakar	3
+men	1
+dinar	2
+santa cruz	4
+ʻinia	2
+মধ্য প্ৰদেশ	23
+nágsko	2
+chalo	2
+રાજસ્થાન	31
+villupuram	1
+گلبرگہ	1
+kosi	21
+ramsar	2
+medan	3
+karma	4
+durga	3
+dhubri	5
+chirang	1
+sade	1
+changi	1
+श्रीरंगम	1
+wadi	2
+triplicane	1
+bhai	2
+vashi	1
+taba	1
+al	24
+sanath	1
+nepal	436
+boma	2
+vishrantwadi	1
+krishna gandaki	1
+ambernath	4
+surat	1
+wots	1
+maine	6
+tema	4
+khaira	1
+sato	1
+kharagpur	1
+mithi	1
+shah	1
+chad	4
+chatrisagara	14
+sudan	289
+jharkhand	3
+kochi	1
+mau	4
+gandak	1
+rajouri district	2
+kondapur	3
+उत्तरपूर्वदेहलीमण्डलम्	32
+selama jillo	95
+las	107
+budhni	1
+รัฐสิกขิม	4
+havelian	20
+ज्वम त॒ कॅशीर	1
+bhadrak	1
+malakpet	2
+salgar	3
+dhemaji	2
+cnn	50
+dems	1
+gopal	20
+latur	1
+narmada district	20
+golden temple	1
+bali	30
+lalgarh distributary	9
+habra	3
+yamuna	6
+sharia	3
+bala	3
+gauri	2
+madurai	22
+sindh	5
+haryana	8
+haryāna	3
+nacharam	1
+somali	6
+mera	1
+virar	1
+distrito de bijnor	9
+un	17
+nashik division	2
+patiala	8
+चिवकाचि	2
+piura	2
+attappādi	1
+monsoon	56
+indian institute of technology	4
+მანიპური	11
+ras	2
+bonth	1
+allahabad	9
+gaur	2
+san	528
+chicacole district	1
+araria	1
+upputuru	10
+diwali	13
+thiruvallur	1
+arag	7
+hur	3
+simar	1
+തൂത്തുക്കുടി തുറമുഖം	1
+phalodi	2
+potus	10
+miri	3
+kamala	3
+dammaiguda	2
+pinarayi	4
+zero	1
+madina	3
+devali	1
+tanjore	1
+anti	5
+bengal	130
+kurla	1
+tughlakabad	1
+tangmarg	2
+melania	39
+dadar	4
+resi	1
+rains	23
+arunachal	1
+an	2
+andheri	11
+mysūru	9
+dwarka	6
+jorethang	8
+chnay	1
+fort mumbai	9
+tha	1
+mali	36
+east of kailash	4
+vits 	17
+lo	2
+uttar	2
+mini	13
+kūvam	1
+tahkal	1
+kumaon	4
+goregaon	1
+vayavya dhilli	4
+kar nicobar	3
+pondichéri	1
+mumbai - मुम़बई	6
+juan	130
+pas	19
+ar	2
+kot	1
+naogaon	2
+parvati	3
+bre	1
+abad	1
+maria	408
+kubi	1
+sonam	1
+palma	1
+hindi	4
+dem	4
+vellalore	1
+aberdeen	10
+mas	1
+janta	22
+ixa	88
+nat	2
+哈尔德瓦尼-丘姆-卡特戈达姆	1
+paradise	1
+नोयडा	20
+goa	8
+toi	2
+uber	5
+amaravati	1
+ra	2
+arch	1
+pata	1
+maharashtra	137
+district de vellore	11
+brad	2
+narayana	6
+uttarpradesh	72
+karnul mavattam	8
+punjab	133
+sikar	1
+mumbai	354
+kāraikāl	5
+hainan	1
+ulsoor	2
+tripura	1
+nagar	5
+bhang	1
+bani	2
+batho	1
+el	11
+chari	15
+rev	1
+chittoor	3
+sri	262
+gala	6
+kapurthala	4
+baleshwar	4
+hiram	2
+districte de coimbatore	34
+kāziranga	24
+baton	15
+bārmer district	38
+mike	1
+gat	1
+hyderābād railroad station	244
+mit	1
+gokul	3
+ചെന്നൈ ജില്ല	1234
+mallam	1
+uti	1
+dhaka	14
+kota	12
+gorakhpur	11
+idukki district	2
+banda	8
+पंचकुटिर	1
+loma	16
+howraghat	1
+ken	1
+tulsa	13
+rai	1
+adoni	2
+kotwal	3
+doh	2
+kabale	11
+jodhpur	1
+salak	1
+cuttack	4
+ahmedabad	7
+jamshedpur	1
+tappa	1
+alor	8
+naga	1
+aurangabad	1
+banjir	19
+santa	10
+delhi	2147
+darsi	2
+rausar kothi	3
+patna	11
+daura	1
+prinsep ghāt	2
+sangam	1
+cuddalore	1
+karbala	16
+bor	9
+kuwāla	10
+sunrise	1
+dev	1
+belle	1
+haripur	1
+শিলচৰ	7
+sawat	2
+比哈尔邦	3
+kate	1
+ghaziabad	1
+barker	1
+moana	1
+krishnagiri	1
+데라둔	2
+tirupati	1
+katragada	1
+சிறீ பொட்டி சிறீ ராமுலு நெல்லூர் மாவட்டம்	2
+ncr	1
+amer	1
+sherwan	3
+bagh	2
+bahawalpur	2
+pearl	4
+sangrur	3
+gok	2
+mangaluru	1
+barkha	2
+nadia	1
+toti	1
+মান্নারগুড়ি	8
+asamo	694
+prai	3
+herne hill	1
+dade	23
+tamilnodu	1029
+bombay mahim	3
+karwar	1
+chitwan	2
+black bein river	1
+kaga	1
+bharat	7
+ri	3
+jand	1
+maradi	3
+rikhikesh	1
+morigaon	1
+mūsi river	8
+dhanera	19
+ana	1
+togo	5
+patparganj	204
+tarai	2
+raichur	11
+dilli	26
+dimapur	1
+asia	478
+silguri	14
+wellington	1
+apollo hospital	2
+senate	5
+kashmir	59
+george town	2
+islamabad	104
+पटौदी	1
+srinivaspur	1
+tirupur	3
+μπανγκαλόρ	272
+elumpur	30
+madera	1
+radi	3
+vikārābād parli vaijnāth branch	2
+kano	11
+musalman	2
+விசாகப்பட்டினம்	3
+irkal	1
+nola	7
+natal	3
+long island	3
+sarah	1
+vegk	14
+hebbal	2
+marha	1
+mahanadi river	2
+supreme court	1
+ring road	4
+moria	1
+tangail	2
+gadag	1
+ami	1
+agri	2
+georgetown	3
+kerala	1388
+khatak	1
+ganda	1
+پولاچی	1
+doda	1
+nadu	140
+sarawak	26
+ked	1
+utakai	1
+kengeri	1
+alwarpet	1
+haor	3
+namakkal	17
+kogi	45
+ganga	3
+manipur	20
+vir	1
+kashmiri	2
+palakkad	1
+bandra	1
+prakasama jila	62
+pudukottai	3
+baner	1
+gujrat	4
+hosur	1
+מערב בנגל	23
+ગુવાહાટી	3
+central gujarat	491
+taman	2
+mijorama	2
+مهاراشټرا	2
+lodi	1
+joda	1
+pacific	16
+vohs	6
+kozhikode	1
+dubai	5
+orissa	25
+lol	8
+kam	1
+tulsi	2
+diggi	1
+id	3
+saligramam	1
+malta	4
+manila	294
+nabha	1
+bahraich	2
+nela	1
+jālor	12
+iim	1
+amaravathi	1
+ਗੋਅਾ	2
+vijayawada	1
+patea	1
+sheila	1
+padmavati	31
+jalandhar	3
+maga	16
+dank	1
+khammamamet	1
+padampur distributary	1
+pandai	1
+nowshera	20
+تریپورہ	2
+chanakyapuri	1
+baram	5
+gangaram	3
+reno	3
+model town	1
+bandh	2
+اندرا گاندھی انٹرنیشنل ایرپورٹ	6
+bulsar district	1
+trichy	7
+goshamahal	1
+uni	4
+kathua	9
+melur	4
+soro	4
+guntur	2
+noi	1
+sehat	1
+roh	1
+anantapur	2
+indira nagar	1
+oakland	5
+kem	9
+english	5
+masia	1
+charminar	2
+tania	1
+sholinganallur	1
+vara	1
+kangar	7
+chinnalapatti	5
+pudukkottai	1
+courtallam	2
+chitral	10
+hayatabad	2
+golakgans	1
+chandigarh	74
+garo	5
+ramnagar	1
+deesa	1
+panangur	1
+ullal	2
+shahzad	34
+katia	3
+bihari	1
+karala	1
+martha	215
+gopalganj	3
+patan	1
+panipat	1
+hail	9
+bet	1
+fatehabad	6
+dana	1
+jan	2
+andhra pradešas	220
+gwl	1
+ada	2
+mena	1
+lakhana'u	24
+gen	1
+johnson	1
+ai	3
+banas kantha	3
+puttalam	1
+kolkata	53
+penjab	102
+hong	1
+marol	1
+kahu	7
+juru	2
+bangara	1
+alaknanda	1
+bayan	3
+chandel	1
+bbmp	2
+gāro hills	22
+asam	1
+baro	1
+cauvery	1
+lanka	86
+rawalpindi	6
+nasir	1
+chikhali	1
+goalpara	12
+кодайканал	1
+soi	1
+nasa	2
+bhubaneshwar	2
+modi	13
+pharma	1
+amber	2
+padi	1
+pondichéry	177
+paras	3
+ramaiya	1
+palani	1
+ot	2
+hazara	1
+denali	1
+polavaram	1
+baha	1
+birma	1
+new delhi	4
+malkajgiri	1
+igatpuri	1
+makkada	2
+patwari	47
+tylanghana	42
+karīmnagar	394
+hoa	4
+mesa	1
+ansari	1
+burhi gandak	9
+bogor	2
+saran	109
+布拉赫马普尔	1
+ghātkopar	1
+sat	14
+trichinapalli	6
+mysore	2
+sanghi	2
+sasia	1
+karaikudi	2
+nāpa	3
+chicago	30
+faqir	3
+subra	1
+infosys	16
+gujranwala	119
+raigarh	5
+majuli	1
+bishan	1
+pgh	1
+chitwan national park	2
+nala	1
+ਮੇਘਾਲਿਆ	2
+kedarnath	54
+jadavpur	5
+bangla	1
+엘로라 석굴	1
+raj bhavan	2
+adani	1
+sharna	1
+bandar udara internasional chennai	2
+ramrup	2
+pindi	1
+nin	2
+mathur	1
+sherpur	6
+indirapuram	1
+keys	4
+kohat	3
+juhu beach  mumbai	1
+addu	16
+kanarese	33
+tirunelveli	1
+white house	65
+ruled	1
+bhutan	2
+sos	1
+hati	1
+na	19
+aswan	11
+asir	1
+char	17
+marriot	5
+uttarakhanda	95
+yamunanagara jila	1
+waves	1
+jammu	163
+bihar	631
+siddha	8
+siraj	2
+kumara	1
+baja	8
+sahara	5
+saraswati river	1
+madhya	1
+trang	9
+kampala	18
+babu	57
+nagpur	2
+mehdipatnam	2
+varna	1
+langar	32
+satun	18
+got	1
+anand	3
+కేరళ	21
+wat	1
+inparu	1
+moron	2
+china	405
+

@@ -2,6 +2,10 @@
 
 * db.all_tweets.ensureIndex({ t: "text" })
 
+* Append "," to end of every line `sed 's/$/,/' all_tweets.json > all_tweets1.json`
+* Converting mongo to json using json_to_csv.py, manually need to edit out certain things.
+* Removing substring: `sed -r 's/^{u'$date': u'//' data.csv`, `sed -r 's/^'}//' data.csv`
+
 * Make sure you drop the collection first.
 * Use upload.sh to upload data.
 ```
@@ -91,6 +95,7 @@ db.all_tweets.aggregate(
    {$group : { _id : '$loc', count : {$sum : 1}}}
 )
 ```
+distinct_locations.py, then location_tabs.py
 
 * locations frequency 'wordcloud', urban rural, state, state, heatmap.
 
@@ -109,6 +114,12 @@ Actual geotagged : 1099
 
 * Improve coverage ? P, R, F, Roc, Auc, ?
 
+* Random sample
+```
+db.getCollection('all_tweets_untagged').aggregate(
+   [ { $sample: { size: 200 } } ]
+)
+```
 
 ** Retweets ?
 

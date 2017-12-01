@@ -2,11 +2,11 @@ import json
 
 locations= json.load(open('location_counts.json'))
 
-s = ''
+s, s1 = '', ''
 for i in range(1, len(locations)):
 	each = locations[i]
 	# print str(each[u'_id'].encode('utf-8')) + '\t' + str(each[u'count'])
-	# s +=  str(each[u'count']) + '\t' + str(each[u'_id'].encode('utf-8')) + '\n'
+	s1 +=  str(each[u'_id'].encode('utf-8')) + '\t' + str(each[u'count']) + '\n'
 	loc = str( each[u'_id'].encode('utf-8').split(',')[0] )
 	if each[u'_id'] == '':
 		continue
@@ -14,8 +14,9 @@ for i in range(1, len(locations)):
 		s += loc.lower() + ' '
 
 s+= '\n'
-# with open("location_counts.txt", "w") as text_file:
-    # text_file.write(s)
+s1+= '\n'
+with open("location_counts.txt", "w") as text_file:
+    text_file.write(s1)
 
 with open("locations_redundant.txt", "w") as text_file:
     text_file.write(s)

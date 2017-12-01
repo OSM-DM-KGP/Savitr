@@ -11,7 +11,7 @@ from wordcloud import STOPWORDS
 d = path.dirname(getcwd()) + '/data'
 
 # Read the whole text.
-text = open(path.join(d, 'locations_redundant.txt')).read()
+text = open(path.join(d, 'distinct_locations_redundant.txt')).read()
 
 # read the mask image
 # taken from

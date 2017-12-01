@@ -1,961 +1,820 @@
-1	bar
-2	juru
-1	kakching
-1	Multan, Pakistan
-2	katia
-1	juhu
-3	pipra
-1	powai
-1	Kishanganj, India
-1	milan
-5	senate
-1	saraswati
-1	golden temple
-1	majuli
-1	besant nagar
-1	ken
-2	courtallam
-1	palma
-2	tangail
-4	uni
-2	bandh
-1	pgh
-6	chenai
-1	planet
-1	sk
-20	narmada
-8	muda
-1	gurun
-2	ot
-3	haor
-2	Ranchi, India
-2	wadi
-1	kata
-1	lodi
-1	doda
-2	tangmarg
-3	idukki
-1	Panchkula, India
-4	southern asia
-1	sanath
-1	kot
-1	mike
-1	gat
-5	dhubri
-1	sheila
-2	gok
-1	sasa
-3	himayatsagar
-1	pharma
-4	keys
-11	raichur
-1	batho
-1	kam
-1	kubi
-3	Haveli, India
-1	wat
-1	toti
-4	ct
-1	nacharam
-1	sarah
-2	mh
-21	kosi
-1	lot
-1	bishan
-1	jand
-2	georgetown
-1	moria
-1	samastipur
-5	dubai
-3	tema
-14	mandya
-1	arunachal
-1	koramangala
-1	malta
-4	north west
-2	nina
-16	infosys
-11	patna
-1	gun
-1	simar
-5	baram
-2	ramsar
-2	hastings
-39	melania
-31	padmavati
-1	mallam
-10	srinagar
-23	dade
-3	sangrur
-2	amber
-1	herne hill
-7	goalpara
-1	ana
-2	dammaiguda
-2	an
-1	Rae Bareily, India
-1	malkajgiri
-1	binan
-1	changi
-1	nin
-1	meghalaya
-1	hati
-8	top
-5	senior
-27	garo hills
-1	dana
-1	Srikakulam, India
-5	garo
-1	sinai
-1	Myanmar
-1	howraghat
-9	burhi gandak river
-8	rains
-1	nala
-3	kamala
-3	Valsad, India
-2	grand
-2	chitwan national park
-1	madhya
-1	Uttaranchal, India
-1	horizon
-2	bhubaneswar
-1	mithi
-2	mehdipatnam
-2	boma
-1	somnala
-1	ghatkopar
-1	dev
-1	jodhpur
-8	banda
-1	salak
-4	solar
-4	mahanadi
-2	rajouri
-3	musi river
-6	sahel
-1	bihari
-2	dhemaji
-1	vai
-2	bridge
-2	br
-3	yamuna
-1	aguada
-1	paradise
-2	maa
-1	sharna
-7	nola
-1	kurla
-5	np
-2	Chittagong, Bangladesh
-4	Bangladesh
-2	taman
-10	tape
-5	marriot
-8	president
-1	ai
-1	asir
-19	pas
-1	Pattukkottai, India
-1	kumara
-15	baton
-3	salgar
-22	kaziranga
-1	soi
-1	Gangtok, India
-1	ramnagar
-1	karwar
-1	Tenali, India
-5	oakland
-6	maine
-1	ellora
-1	baha
-18	satun
-1	ka
-2	ha
-3	ganga
-3	mad
-1	amer
-65	kedarnath
-1	Vidyavihar, India
-1	suryapet
-1	state of uttarakhand
-1	katragada
-1	Sylhet, Bangladesh
-4	spring
-12	night
-1	adani
-1	attappadi
-17	andheri
-27	hero
-1	jar
-1	Karimnagar, India
-57	kogi
-2	bank
-1	miramar
-88	agartala
-1	golakganj
-2	brad
-2	ga
-2	londra
-19	kampala
-279	sudan
-9	nevada
-1	kengeri
-6	id
-87	uttarakhand
-3	medan
-2	put
-4	hoa
-16	char
-16	loma
-1	pandai
-12	jalore
-11	kano
-1	Haripur, Pakistan
-1	supreme court
-1	araria
-3	dakar
-5	kumaon
-1	bahraich
-2	chalo
-1	mukha
-4	melur
-1	dili
-1	srinivaspur
-1	khatak
-1	banjir
-7	afzalgarh
-2	area
-1	sion
-1	zero
-6	sahara
-2	ahmedabad
-1	puram
-1	Mahesh Nagar, Bhusawal
-1	sehat
-19	dhanera
-3	sindh
-2	tulsi
-3	anand
-2	naogaon
-1	model town
-1	bach
-1	chalain
-22	asal
-2	charminar
-5	tiruchi
-1	chanakyapuri
-1	Allahabad, India
-1	Dahisar East, Mumbai
-1	palakkad
-2	south central railway
-22	janta
-209	patparganj
-1	nasir
-1	Hosur, Tamil Nadu
-2	ras
-1	चेनगन्नुर, भारत
-1	sabi
-1	sonam
-1	vir
-1	Mansarovar, Jaipur
-1	bahut
-1	baner
-1	ami
-1	Hassan, India
-1	tirupati
-1	khammam
-3	rev
-1	indy
-1	iim
-1	sasia
-3	mysore
-1	vellalore
-1	gandak
-1	Ramanathapuram, India
-1	usman
-1	andhra pradesh
-4	shore
-3	pudukottai
-10	mn
-1	mahim
-3	west bengal
-4	bacha
-1	naveen
-1	srikakulam
-3	guwahati
-2	guntur
-1	cauvery
-1	sariya
-1	villupuram
-1	Kandivali East, Mumbai
-4	soro
-3	Bhopal, India
-1	mathur
-1	sangam
-731	assam
-1	ooty
-4	rain
-1	pindi
-6	surat
-11	aswan
-1	tihar
-1	sato
-2	nashik
-1	nabha
-3	pu
-3	Yamunanagar, India
-10	upputuru
-2	makkada
-1	Shimla, India
-1	Rishikesh, India
-1	irkal
-125	ap
-3	hazara
-1	Palladam, India
-1	Nagapattinam, India
-1	nadala
-1	gayan
-1	tha
-1	komali
-2	Bardes, India
-6	chinnalapatti
-2	anantapur
-11	Surat, India
-1	गुवाहाटी, भारत
-3	Jaipur, India
-1	matara
-9	bijnor
-1	pataudi
-5	nagar
-1	Medchal, India
-1	Viluppuram, India
-2	raj bhavan
-1	bandra
-47	patwari
-1	Ambalappuzha-Alappuzha-Komalapuram-Pathirapally, India
-4	Patna, India
-1	rasipuram
-4	vizag
-2	Nimach, India
-1	chikhali
-4	jan
-1	Golaghat, India
-1	neyveli
-1	belle
-1	Warangal-Hamamkonda, India
-10	more
-2	Guwahati, India
-1	khan
-6	ncr
-1	Sivakasi, India
-1	Hapur, India
-1	Vododara, India
-1	khaira
-10	aberdeen
-1	tail
-7	haryana
-1	Bhavani, India
-8	siddha
-3	Lucknow, India
-12	tirupur
-3	radi
-1	cooum
-2	sivakasi
-2	along
-1	kurang
-3	Varanasi, India
-28	manipur
-6	era
-1	sade
-1	ramaiya
-1	maha kali
-1	moana
-1	Pollachi, India
-1	kochi
-2	Panaji, India
-4	kolathur
-1	Chhattisgarh, India
-7	hyd
-1	dhanda
-1	Devli, India
-20	gopal
-4	cooum river
-1	cuddalore
-32	Bengaluru South, India
-3	hur
-1	ruled
-1	kozhikode
-24	thiruvananthapuram
-13	gop
-11	vellore
-7	song
-2	bari
-119	ghana
-9	mannargudi
-2	periyapet
-14	northern
-1	Mandvi, Mumbai
-1	dadar
-1	Rawalpindi, Pakistan
-38	barmer
-2	Ulhasnagar, India
-1	gadag
-10	Ahmadabad City, India
-35	north east
-6	jammu city
-2	patan
-43	cnn
-1	morigaon
-3	kannur
-1	main
-109	saran
-13	tulsa
-5	Tiruppur, India
-2	uttar
-1	masia
-3	Agra, India
-1	ansari
-1	Jhunjhunun, India
-10	trichy
-6	silao
-1	run
-4	karma
-8	patiala
-2	hebbal
-1	dimapur
-10	sat
-1	Vijayawada, India
-7	war
-80	asia
-6	Hayathnagar, India
-28	Chennai, India
-1	Latur, India
-26	son
-4	Pondicherry, India
-2	bimari
-1	Madanapalle, India
-1	Palasa Kasibugga, India
-2	uppal
-6	sherwan
-1	panchayat
-1	lepra
-84	tamilnadu
-1	budhni
-1	unta
-4	Thoothukkudi, India
-1	tirunelveli
-11	kurnool
-2	Adoni, India
-1	Gandhinagar, India
-1	tahkal
-1	rajakkapatti
-3	bayan
-7	fatehabad
-2	barkha
-1	kali
-4	gujrat
-3	Nashik, India
-1	prakasam district
-3	madina
-2	bend
-8	kem
-6	Chengalpattu, India
-10	Ahmadnagar, India
-775	bihar
-120	las
-9	to
-215	martha
-5	raigarh
-6	southern
-1	taba
-5	hong
-3	kohat
-1	Dewas, India
-3	Indore, India
-4	tengo
-1	brasi
-29	telangana
-1	kerela
-1	Jamshedpur, India
-7	long
-6	kangar
-191	puducherry
-3	gali
-3	Saraikela Kharsawan, India
-1	chip
-3	Erode, India
-1	panda
-1	nl
-1	Rajendra Park, Gurgaon
-16	karbala
-3	dwarka
-2	napa
-2	Thanesar, India
-3	machar
-1	toi
-2	apollo hospital
-8	maga
-1	Gudiyattam, India
-1	mahal
-572	juan
-3	Tiruvallur, India
-2	Mannargudi, India
-1	bangla
-1	Andheri West, Mumbai
-9	Perambur Purasavakam, India
-1	tenga
-3	prai
-1	barnala
-1	garden
-70	uttar pradesh
-1	BTM Layout, Bengaluru South
-1	sind
-1	basauri
-2	jk
-4	balasore
-1	roh
-2	lo
-1	Bahraich, India
-3	Chandigarh, India
-2	छत्तीसगढ़, भारत
-14	Ghaziabad, India
-1	Sulurpet, India
-13	Gujarat, India
-1	west river
-1	tania
-2	gaur
-3	kondapur
-1	Vaniyambadi, India
-7	lol
-9	kuala
-2	Gulbarga, India
-887	up
-1	dindigul
-1	Karur, India
-6	sherpur
-479	china
-1	Patiala, India
-8	pune
-1	landing
-24	al
-4	bhopal
-1	pando
-1	kumar
-1	here
-11	kathua
-2	haridwar
-30	salem
-2	नई दिल्ली, भारत
-1	tena
-3	gangaram
-1	Pedappai, India
-4	Salem, India
-1	uma
-1	sholinganallur
-2	Daskroi, India
-1	madera
-37	pacific
-5	Thane, India
-8	alor
-25	madurai
-1	pollachi
-4	dehradun
-1	abad
-8	Mylapore Tiruvallike, India
-119	gujranwala
-2	Orissa, India
-2	haldwani
-65	god
-12	una
-27	Navi Mumbai, India
-1	berhampur
-11	kabale
-5	mail
-1	Mookandapalli, India
-1	walang
-17	un
-1	kate
-3	karaikudi
-1	Vellore Fort Area, Vellore
-9	Sriperumbudur, India
-1	imphal
-3	Kattankulathur, India
-8	mas
-1	jena
-1	marol
-5	Tiruchirapalli, India
-2	wag
-5	anti
-16	Sholinganallur, India
-3	ur
-1	halla
-1	Jalor, India
-1	Ateli, Haryana
-1	Agartala, India
-5	jadavpur
-18	namakkal
-2	delia
-1	parthu
-15	chari
-2	Silchar, India
-3	madras
-11	Saidapet, India
-1	re
-13	gorakhpur
-1	índia
-1	thane
-1	tughlakabad
-1	mena
-1	change
-23	sarawak
-1	Malda, English Bazar
-44	coimbatore
-11	katol
-1	Hoshiarpur, India
-1	johnson
-1	Santiniketan, India
-4	dem
-11	rajasthan
-4	ring road
-5	dam
-21	si
-1	denali
-2	musalman
-24	Gurgaon, India
-1	sos
-1	Raurkela-Panposh, India
-2	sawat
-2	ung
-1	kodaikanal
-6	lanka
-5	banana
-1	गुड़गांव, भारत
-1	Phagwara, India
-1	barker
-1	bb
-394	karimnagar
-1	dane
-16	dhaka
-5	Faridabad, India
-29	Noida, India
-1	Mahindra, India
-7	bor
-3	sikkim
-3	Tiruvannamalai, India
-2	ganda
-1	kharagpur
-2	Thiruvarur, India
-8	potus
-2	bagh
-1	waves
-4	east of kailash
-1	but
-30	sonora
-5	shivamogga
-12	central
-9	trang
-23	santa
-1	birma
-3	lola
-1	gen
-17	North-west Frontier, Pakistan
-1	karala
-1	godhra
-4	english
-16	bhai
-12	Aligarh, India
-128	andhra
-1	yenda
-17	monsoon
-29	bali
-1	vashi
-1	गाज़ियाबाद, भारत
-38	thala
-2	ser
-5	karaikal
-1	nadia
-10	modi
-3	Ludhiana, India
-1	chakwal
-1	marha
-38	mali
-1	varna
-4	ambernath
-6	hala
-1	tanjore
-1	kalam
-2	Dhaka, Bangladesh
-4	deganga
-1	Lyallpur, Pakistan
-4	nahiya
-1	tuticorin
-1	ganga ram
-1	ratan
-4	bhara
-10	wb
-2	sun
-2	tarai
-4	bahia
-3	gokul
-291	tamil nadu
-1	borra
-1	sikar
-1	sagada
-10	Sindh, Pakistan
-2	Ponneri, India
-1	Powai, Mumbai
-10	akala
-3	ulsoor
-1	Karnataka, India
-11	chhattisgarh
-1	jumpa
-1	orissa
-10	Pune, India
-3	Maharashtra, India
-1	Porbandar, India
-1	goregaon
-1	Vasant Kunj, New Delhi
-2	bbmp
-2	jalan
-1	bangara
-28	natal
-1	sector
-3	Bhubaneshwar, India
-56	Bengaluru, India
-3	gopalganj
-3	anda
-2	sanghi
-4	pinarayi
-1	mit
-2	bahawalpur
-12	Rajendra Nagar, India
-2	nellore
-1	guria
-5	naga
-24	mp
-5	chama
-9	allahabad
-5	uber
-2	चेन्नई, भारत
-1	ked
-4	Barnala, India
-9	padang
-1	Tirunelveli, India
-1	vijayawada
-7	jalandhar
-2	nat
-102	panjab
-22	ainda
-1	kahu
-1	gala
-1	drug
-3	Kota, India
-2	bad
-1	pata
-133	bengal
-2	basin
-2	Thirumangalam, India
-1	Hitech City, Rajendra Nagar
-19	Egmore Nungambakkam, India
-6	Coimbatore, India
-3	kotwal
-3	jail
-8	jorethang
-1	haripur
-760	tn
-1	valsad
-1	paschim
-1	puttalam
-66	white house
-3	miri
-1	virar
-1	mathara
-1	Jammu, Jammu And Kashmir
-3	ranch
-1	alwarpet
-3	mando
-6	rawalpindi
-3	sharia
-7	jharkhand
-1	nela
-2	Kanchipuram, India
-1	jamnagar
-1823	kerala
-8	Fort Tondiarpet, India
-8	hayatabad
-111	islamabad
-24	India
-1	goshamahal
-1	vishrantwadi
-1	kala
-243	maria
-6	bombay
-126	jammu
-1198	chennai
-5	upper
-2	turkia
-3	maradi
-2	phalodi
-1	panangur
-6	kamrup
-3	sink
-2	kashmiri
-1	jamshedpur
-2	bogor
-1	Mahavir Nagar, Kota
-2	nagpur
-206	bengaluru
-1	tak
-4	Madurai South, India
-144	Mumbai, India
-4	chad
-3	Vishakhapatnam, India
-37	karnataka
-2	bonth
-1	charan
-4	iit madras
-1	Urapakkam, India
-26	lucknow
-2	aurangabad
-252	hyderabad
-1	hosur
-1	Kohima, India
-1	kill
-2	nagaland
-5	hindi
-1	Reddiarpalayam, Pondicherry
-86	san
-3	malda
-2	darsi
-300	manila
-2	toda
-5	habra
-2	ri
-3	Nawada, India
-7	kohistan
-16	new delhi
-16	Sri Lanka
-1	amaravathi
-31	chicago
-25	dilli
-1	devali
-40	piura
-13	diwali
-46	prakasam
-1	dream
-21	fort
-3	reno
-13	baja
-3	panchkula
-19	net
-24	Kolkata, India
-290	mumbai
-1	patea
-3	parvati
-3	ra
-16	kl
-10	Panipat, India
-1	nasa
-1	vayala
-1	meu
-1	ludhiana
-2	emilia
-3	ullal
-9	Lahore, Pakistan
-4	mau
-1	noi
-15	havelian
-1	wellington
-60	kolkata
-146	maharashtra
-1	chirang
-39	gurgaon
-3	faqir
-1	Mysore, India
-1	minga
-1	niana
-19	na
-5	pearl
-2	barata
-8	Nepal
-1	Bhuj, India
-1	tappa
-17	addu
-1	dems
-517	gujarat
-2	manda
-13	siliguri
-5	tip
-4076	delhi
-13	Hyderabad, India
-150	nadu
-2	george town
-1	daura
-1	Jhansi, India
-2	tengan
-20	nowshera
-1	mera
-1	hindustan
-14	ki
-78	chandigarh
-1	daghan
-2	than
-30	egmore
-3	Cuttack, India
-354	sri
-1	indira nagar
-1	nu
-4	Islamabad, Pakistan
-81	New Delhi, India
-1	alaknanda
-8	bharat
-4	Siliguri, India
-1	barka
-1	Kalyan Dombivali, India
-2	mission
-6	matunga
-290718	
-15	kota
-1	kar
-1	gwalior
-5	siraj
-2	pondicherry
-1	kalaburgi
-1	kolar
-23	odisha
-32	langar
-2915	india
-82	kashmir
-75	el
-57	babu
-9	Tamil Nadu, India
-54	Punjab, Pakistan
-1	Pind Dadan Khah, Pakistan
-1	bhutan
-2	Bhavani (Tiruchengodu), India
-30	del
-1	Guntur, India
-2	Cuddalore, India
-177	punjab
-5	chittoor
-102	bangalore
-1	joda
-1	pondy
-2	uti
-1	Thanjavur, India
-595	nepal
-1	musi
-9	ada
-16	chepo
-3	Andhra Pradesh, India
-51	noida
-9	kapurthala
-6	narayana
-1	ghaziabad
-3	minha
-10	mysuru
-1	tanta
-21	Peshawar, Pakistan
-5	Kerala, India
+chandel	1
+Multan, Pakistan	1
+juhu	1
+powai	1
+Kishanganj, India	1
+senate	5
+saraswati	1
+golden temple	1
+arag	7
+arch	1
+majuli	1
+thiruvallur	1
+tarai	2
+morigaon	1
+latur	1
+courtallam	2
+rai	1
+palma	1
+tangail	2
+uni	4
+bandh	2
+pgh	1
+prai	3
+moana	1
+medan	3
+sk	1
+narmada	20
+ot	2
+haor	3
+manipur	20
+mini	13
+Ranchi, India	2
+wadi	2
+chitral	10
+banaskantha	3
+marol	1
+banjir	19
+lodi	1
+tangmarg	2
+idukki	2
+Panchkula, India	1
+southern asia	4
+sanath	1
+gandak	1
+kot	1
+mike	1
+gat	1
+dhubri	5
+sheila	1
+gok	2
+pharma	1
+keys	4
+raichur	11
+birma	1
+rosa	3
+kam	1
+kubi	1
+Haveli, India	3
+wat	1
+toti	1
+ct	4
+nacharam	1
+sarah	1
+mh	2
+kosi	21
+bishan	1
+amaravati	1
+jand	1
+batho	1
+malakpet	2
+moria	1
+samastipur	1
+dubai	5
+id	3
+tema	4
+mandya	14
+arunachal	1
+dadar	4
+milan	1
+hail	9
+rishikesh	1
+tha	1
+malta	4
+bangalore city	1
+north west	4
+nina	2
+infosys	16
+patna	11
+baram	5
+simar	1
+ramsar	2
+chhattisgarh	10
+Jaipur, India	1
+fort	9
+hastings	2
+melania	39
+padmavati	31
+mallam	1
+baro	1
+srinagar	10
+resi	1
+dade	23
+ras	2
+hati	1
+sangrur	3
+amber	2
+herne hill	1
+goalpara	12
+ana	1
+dammaiguda	2
+malkajgiri	1
+Rae Bareily, India	1
+binan	1
+changi	1
+nin	2
+garo hills	22
+dana	1
+Srikakulam, India	1
+garo	5
+sinai	1
+Myanmar	1
+cuttack	4
+howraghat	1
+sos	1
+somali	6
+nala	1
+kamala	3
+meghalaya	2
+Nepal	7
+Valsad, India	3
+chitwan national park	2
+barkha	2
+madhya	1
+Uttaranchal, India	1
+bhubaneswar	2
+virar	1
+mithi	1
+boma	2
+mehdipatnam	2
+ghatkopar	1
+dev	1
+santa cruz	4
+jodhpur	1
+banda	8
+georgetown	3
+salak	1
+rajouri	2
+musi river	3
+sahel	6
+Cuddalore, India	1
+bihari	1
+dhemaji	2
+marha	1
+mali	36
+koramangala	5
+br	2
+yamuna	3
+aguada	1
+paradise	1
+maa	2
+sharna	1
+nola	7
+el	11
+kurla	1
+doda	1
+chitwan	2
+Chittagong, Bangladesh	2
+santa	10
+trang	9
+Bangladesh	2
+taman	2
+bhutan	2
+marriot	5
+george town	2
+daura	1
+Jhansi, India	1
+shahzad	34
+durga	3
+chenai	1
+hainan	1
+pas	19
+mn	11
+Pattukkottai, India	1
+kumara	1
+baton	15
+kabale	11
+salgar	3
+kaziranga	24
+soi	1
+Gangtok, India	1
+karwar	1
+ramnagar	1
+Tenali, India	1
+oakland	5
+ken	1
+toa	2
+uttarakhand	94
+maine	6
+ellora	1
+baha	1
+satun	18
+reno	3
+baja	8
+hiram	2
+Vidyavihar, India	1
+katragada	1
+adani	1
+attappadi	1
+andheri	11
+katia	3
+sahara	5
+kaga	1
+Karimnagar, India	1
+kogi	45
+yamuna river	3
+agartala	88
+brad	2
+golakganj	1
+ga	2
+kengeri	1
+loma	16
+pandai	1
+hoa	4
+char	17
+kano	11
+jalore	12
+Haripur, Pakistan	1
+ullal	2
+sudan	289
+supreme court	1
+araria	1
+dakar	3
+bahraich	2
+melur	4
+ahmedabad	7
+Mahesh Nagar, Bhusawal	1
+sindh	4
+dhanera	19
+tulsi	2
+anand	3
+naogaon	2
+model town	1
+matunga	3
+charminar	2
+tiruchi	5
+moron	2
+chanakyapuri	1
+Dewas, India	1
+Indore, India	3
+sunrise	1
+patparganj	204
+nasir	1
+Hosur, Tamil Nadu	1
+baner	1
+ncr	1
+cooum	1
+sivakasi	2
+tirupati	1
+Sivakasi, India	1
+vellalore	1
+pudukottai	3
+west bengal	15
+naveen	1
+srikakulam	1
+del	6
+Guntur, India	1
+guwahati	3
+guntur	2
+Mysore, India	1
+cauvery	1
+dinar	2
+subra	1
+sonam	1
+vir	1
+Mansarovar, Jaipur	1
+mahanadi	2
+indirapuram	1
+amer	1
+palani	1
+kedarnath	54
+villupuram	1
+Mannargudi, India	1
+np	9
+soro	4
+Bhopal, India	3
+mathur	1
+surat	1
+aswan	11
+pindi	1
+sangam	1
+ooty	1
+panipat	1
+assam	694
+nagaland	1
+hindi	4
+jan	2
+tiruchirapalli	1
+chalo	2
+tr	2
+prakasam	62
+tihar	1
+sato	1
+naga	1
+nashik	2
+nabha	1
+ring road	4
+denali	1
+pu	3
+Yamunanagar, India	3
+khatak	1
+upputuru	10
+hr	3
+makkada	2
+an	2
+bhadrak	1
+napa	3
+Thanesar, India	2
+irkal	1
+ap	123
+hazara	1
+Shimla, India	1
+Rishikesh, India	1
+sasia	1
+mysore	2
+Erode, India	1
+Patna, India	3
+silchar	7
+anantapur	2
+Surat, India	11
+Bardes, India	2
+chinnalapatti	5
+गुवाहाटी, भारत	1
+tughlakabad	1
+mena	1
+sarawak	26
+Malda, English Bazar	1
+ar	2
+kerela	1
+Jamshedpur, India	1
+bijnor	9
+nagar	5
+Medchal, India	1
+pataudi	1
+raj bhavan	2
+bandra	1
+rev	1
+indy	1
+iim	1
+patwari	47
+Sindh, Pakistan	7
+vizag	3
+Nimach, India	2
+ghaziabad	1
+mysuru	9
+chikhali	1
+Lucknow, India	2
+andhra pradesh	97
+Warangal-Hamamkonda, India	1
+belle	1
+Guwahati, India	1
+khaira	1
+tirupur	3
+radi	3
+kampala	18
+habra	3
+ri	3
+Varanasi, India	2
+tuticorin	1
+tripura	1
+sade	1
+ramaiya	1
+maha kali	1
+kochi	1
+Panaji, India	2
+kolathur	2
+agri	2
+mesa	1
+nevada	9
+hyd	6
+Chhattisgarh, India	1
+state of uttarakhand	1
+gopal	20
+cuddalore	1
+Bengaluru South, India	29
+hur	3
+ruled	1
+ghana	113
+mannargudi	8
+kozhikode	1
+thiruvananthapuram	24
+chari	15
+Silchar, India	2
+madras	3
+Saidapet, India	3
+gop	14
+vellore	11
+periyapet	2
+bala	3
+Ulhasnagar, India	2
+barmer	38
+masia	1
+paras	3
+Agra, India	2
+Ahmadabad City, India	10
+north east	32
+gadag	1
+patan	1
+cnn	50
+saran	109
+Tiruppur, India	2
+tulsa	13
+uttar	2
+bengal	130
+pata	1
+Chengalpattu, India	4
+kem	9
+ansari	1
+beta	1
+Jhunjhunun, India	1
+trichy	7
+nat	2
+panjab	102
+kahu	7
+karma	4
+dimapur	1
+sat	14
+Vijayawada, India	1
+Chennai, India	8
+Latur, India	1
+Saraikela Kharsawan, India	2
+Kattankulathur, India	2
+imphal	1
+mas	1
+palakkad	1
+Madanapalle, India	1
+Palasa Kasibugga, India	1
+uppal	2
+sherwan	3
+budhni	1
+Thoothukkudi, India	1
+sehat	1
+tirunelveli	1
+kurnool	8
+Adoni, India	1
+Gandhinagar, India	1
+al	24
+natal	3
+bangara	1
+bbmp	2
+sholinganallur	1
+Daskroi, India	2
+madera	1
+pacific	16
+Thane, India	3
+siddha	8
+Bhavani, India	1
+aberdeen	10
+haryana	8
+bayan	3
+mizoram	2
+fatehabad	6
+gujrat	4
+Nashik, India	3
+madina	3
+doh	2
+musi	5
+ada	2
+Ahmadnagar, India	10
+bihar	631
+las	107
+martha	215
+raigarh	5
+kohat	3
+hong	1
+taba	1
+telangana	17
+puducherry	175
+kangar	7
+nl	1
+karbala	16
+Rajendra Park, Gurgaon	1
+long island	3
+dwarka	6
+ami	1
+Mandvi, Mumbai	1
+Gudiyattam, India	1
+dank	1
+juan	130
+Lyallpur, Pakistan	1
+bhang	1
+tamilnadu	65
+bangla	1
+Andheri West, Mumbai	1
+Perambur Purasavakam, India	6
+BTM Layout, Bengaluru South	1
+uttar pradesh	72
+Pondicherry, India	2
+jk	1
+sind	1
+balasore	4
+roh	1
+lo	2
+adoni	2
+Salem, India	3
+gorakhpur	11
+asir	1
+ai	3
+un	17
+kate	1
+karaikudi	2
+saligramam	1
+Bahraich, India	1
+Chandigarh, India	3
+छत्तीसगढ़, भारत	2
+Ghaziabad, India	13
+Sulurpet, India	1
+Gujarat, India	12
+west river	1
+Kolkata, India	20
+tania	1
+gaur	2
+kondapur	3
+patiala	8
+hebbal	2
+lol	8
+kuala	10
+Gulbarga, India	2
+Karur, India	1
+pune	17
+Patiala, India	1
+sherpur	6
+china	405
+haridwar	1
+salem	95
+kathua	9
+anti	5
+Sholinganallur, India	9
+gangaram	3
+नई दिल्ली, भारत	1
+alor	8
+madurai	22
+pollachi	1
+dehradun	2
+sawat	2
+kodaikanal	1
+coimbatore	34
+state of bihar	1
+abad	1
+Mylapore Tiruvallike, India	2
+gujranwala	119
+god	71
+haldwani	1
+Orissa, India	2
+Allahabad, India	1
+Dahisar East, Mumbai	1
+berhampur	1
+Navi Mumbai, India	23
+Vellore Fort Area, Vellore	1
+Sriperumbudur, India	2
+ur	4
+Jalor, India	1
+srirangam	1
+Ateli, Haryana	1
+namakkal	17
+Agartala, India	1
+jadavpur	5
+johnson	1
+got	1
+Santiniketan, India	1
+Phagwara, India	1
+barker	1
+bb	1
+triplicane	1
+karimnagar	394
+Noida, India	27
+sikkim	3
+Tiruvannamalai, India	3
+bor	9
+ganda	1
+gokul	3
+polavaram	1
+goshamahal	1
+India	20
+vishrantwadi	1
+amaravathi	1
+dilli	26
+diggi	1
+devali	1
+chicago	30
+piura	2
+diwali	13
+potus	10
+bagh	2
+led	1
+sikar	1
+tamil nadu	283
+waves	1
+east of kailash	4
+gala	6
+Kota, India	2
+goregaon	1
+Vasant Kunj, New Delhi	1
+orissa	1
+Maharashtra, India	1
+Pune, India	7
+gen	1
+North-west Frontier, Pakistan	11
+mangaluru	1
+karala	1
+vashi	1
+गाज़ियाबाद, भारत	1
+thala	37
+karaikal	5
+nadia	1
+nasa	2
+deganga	8
+Dhaka, Bangladesh	2
+tanjore	1
+varna	1
+ambernath	4
+Bhubaneshwar, India	3
+Bengaluru, India	49
+Ponneri, India	1
+Powai, Mumbai	1
+mp	23
+gwalior	1
+siraj	2
+pondicherry	2
+kalaburgi	1
+asam	1
+dis	1
+Sylhet, Bangladesh	1
+odisha	24
+kolar	17
+wb	8
+padi	1
+bre	1
+jalandhar	3
+allahabad	9
+Sri Lanka	12
+Nawada, India	3
+new delhi	4
+Fort Tondiarpet, India	3
+hayatabad	2
+srinivaspur	1
+islamabad	104
+burhi gandak river	9
+rains	23
+kharagpur	1
+toi	2
+apollo hospital	2
+maga	16
+dhaka	14
+dane	1
+Faridabad, India	5
+uber	5
+Lahore, Pakistan	6
+ked	1
+Barnala, India	4
+padang	6
+Tirunelveli, India	1
+vijayawada	1
+togo	5
+hindustan	1
+Thirumangalam, India	1
+Hitech City, Rajendra Nagar	1
+Coimbatore, India	5
+Egmore Nungambakkam, India	14
+चेन्नई, भारत	2
+Ludhiana, India	3
+chakwal	1
+men	1
+modi	13
+kotwal	3
+jorethang	8
+haripur	1
+tn	681
+jammu	163
+maria	408
+bombay	6
+chennai	1234
+Madurai South, India	2
+Mumbai, India	136
+alwarpet	1
+rawalpindi	6
+kerala	1388
+pudukkottai	1
+sharia	3
+jharkhand	3
+nela	1
+jamnagar	1
+chad	4
+karnataka	33
+Vishakhapatnam, India	3
+bonth	1
+Rajendra Nagar, India	11
+nellore	2
+bahawalpur	2
+mit	1
+shah	1
+gopalganj	3
+sanghi	2
+pinarayi	4
+khammam	1
+bhai	2
+english	5
+Aligarh, India	11
+andhra	25
+monsoon	56
+bali	30
+Islamabad, Pakistan	3
+New Delhi, India	65
+alaknanda	1
+bharat	7
+Siliguri, India	4
+ganga	3
+kota	12
+ulsoor	2
+Karnataka, India	1
+tahkal	1
+dem	4
+rajasthan	31
+phalodi	2
+panangur	1
+maradi	3
+kamrup	2
+iit madras	4
+Urapakkam, India	1
+hosur	1
+hyderabad	244
+Kohima, India	1
+lucknow	24
+aurangabad	1
+joda	1
+bangalore	92
+chittoor	3
+pondy	1
+uti	1
+nepal	436
+Thanjavur, India	1
+Hassan, India	1
+Reddiarpalayam, Pondicherry	1
+san	528
+manila	294
+darsi	2
+valsad	1
+puttalam	1
+vara	1
+white house	65
+miri	3
+Jammu, Jammu And Kashmir	1
+mumbai	354
+yamunanagar	1
+krishnagiri	1
+patea	1
+parvati	3
+ra	2
+kl	20
+Panipat, India	10
+goa	8
+mau	4
+noi	1
+havelian	20
+wellington	1
+kolkata	53
+maharashtra	137
+chirang	1
+gurgaon	37
+chandigarh	74
+Cuttack, India	2
+egmore	30
+wots	1
+sri	262
+indira nagar	1
+igatpuri	1
+asia	478
+Hayathnagar, India	5
+musalman	2
+Gurgaon, India	21
+faqir	3
+na	19
+pearl	4
+kumaon	4
+dems	1
+gujarat	491
+Bhuj, India	1
+addu	16
+tappa	1
+kapurthala	4
+noida	19
+Andhra Pradesh, India	3
+bani	2
+zero	1
+narayana	6
+Kerala, India	5
+Peshawar, Pakistan	16
+siliguri	14
+south central railway	2
+janta	22
+delhi	2147
+lanka	86
+gauri	2
+babu	57
+Tamil Nadu, India	8
+Punjab, Pakistan	42
+punjab	133
+kashmiri	2
+jamshedpur	1
+bogor	2
+Mahavir Nagar, Kota	1
+nagpur	2
+bengaluru	179
+Hyderabad, India	11
+nadu	140
+nowshera	20
+mera	1
+india	3792
+langar	32
+kashmir	59
+
