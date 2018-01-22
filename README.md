@@ -128,3 +128,8 @@ We've managed to get our system running. [Install postman](https://blog.bluemata
 ## mongo query dump
 
 * `db.getCollection('tweets_collection').find({$text: {$search: "disaster"}})`
+
+
+## distinct_locations.py
+
+Groups locations with same lat, long together.

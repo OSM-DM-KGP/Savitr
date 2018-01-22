@@ -32,8 +32,10 @@ for each in distinct_counts:
 
 # frequency stores number of times location appears 10 times
 s, s1 = '', ''
-maximum = max(distinct_locations, key=mydict.get)
+print(distinct_locations)
+maximum = max(distinct_locations, key=distinct_locations.get)
 print(maximum, distinct_locations[maximum])
+maximum = distinct_locations[maximum]
 frequency = [0]*(maximum+1)
 
 for each in distinct_locations:
