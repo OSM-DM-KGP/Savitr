@@ -124,3 +124,12 @@ db.getCollection('all_tweets_untagged').aggregate(
 ** Retweets ?
 
 ** Remove en languages - spanish, etc.
+
+
+* Get wordclouds data, and frequency of how many locations appear 3 times.
+	distinct_locations.py
+
+* Print only tweet text from mongo: `db.Jan22_tweets.find({}, {t: 1, _id:0})`
+* Export only tweets: `mongoexport -d test -c Jan22_tweets -f t -o tweets_Jan22.txt`
+
+* Sort hashtags used: hashtag_counter.py
