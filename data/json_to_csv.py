@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 #data_valid.json stores all tweets
-df = pd.read_json('all_tweets.json')
+df = pd.read_json('data_valid.json')
 
 # with open('untagged_sample.json') as f:
 #    data = json.load(f)

@@ -133,3 +133,17 @@ db.getCollection('all_tweets_untagged').aggregate(
 * Export only tweets: `mongoexport -d test -c Jan22_tweets -f t -o tweets_Jan22.txt`
 
 * Sort hashtags used: hashtag_counter.py
+
+* `db.getCollection('Jan22_tweets').find({"p": {$exists: true, "$ne": ""} ,$text: {$search: "dengue"}})` does location exist ?
+
+* No location: `db.getCollection('Jan22_tweets').find({"p": {$eq :""} ,$text: {$search: "dengue"}}).count()`
+
+## Randomly sampling some tweets into a file
+
+```
+mongo | tee out.txt
+> DBQuery.shellBatchSize = 40000
+> db.Jan30_tweets.aggregate(
+   { $sample: { size: 40000 } }
+)
+```
