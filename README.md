@@ -5,6 +5,7 @@ Early Warning System. A geotagged tweet map. Protector of the realm
 
 Please refer to the original [setup doc](https://github.com/JaredHawkins/TweetGeoViz) since it does not differ yet.
 
+## Redundant node webapp. Please check out the [master](https://github.com/kaustubhhiware/Savitr) branch.
 
 # Runnning the system
 
