@@ -1,3 +1,30 @@
+Sample twitter data
+
+```
+{
+  "_id": "516799596153307136",
+  "lang": "en",
+  "plt": -5.799,
+  "uid": "67763278",
+  "tlt": -5.822,
+  "cc": "BR",
+  "f": "tw201492918305",
+  "p": "a4ddc3856053f7e1",
+  "flrs": 1014,
+  "acr": {
+    "$date": 1250900341000
+  },
+  "t": "@barrosmirella questão de ideias e conceitos. Você se definiu homofóbica nessa frase. Ngm precisa aceitar e/ou apoiar a homossexualidade*",
+  "cr": {
+    "$date": 1412049600000
+  },
+  "pln": -35.221,
+  "tln": -35.229,
+  "flng": 273
+}
+
+```
+
 * mongoimport --db test --collection tweets_collection --file tweets_collection.json
 
 * db.all_tweets.ensureIndex({ t: "text" })

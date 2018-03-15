@@ -1,0 +1,106 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Fox and Shaw}{Fox and Shaw}{1993}]%
+        {FoxShawTREC1993}
+\bibfield{author}{\bibinfo{person}{Edward~A. Fox} {and}
+  \bibinfo{person}{Joseph~A. Shaw}.} \bibinfo{year}{1993}\natexlab{}.
+\newblock \showarticletitle{Combination of Multiple Searches}. In
+  \bibinfo{booktitle}{{\em Proceedings of TREC 1993}}.
+  \bibinfo{address}{http://trec.nist.gov/pubs/trec2/papers/txt/23.txt}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mikolov, Yih, and Zweig}{Mikolov
+  et~al\mbox{.}}{2013}]%
+        {Mikolov2013}
+\bibfield{author}{\bibinfo{person}{T. Mikolov}, \bibinfo{person}{W.T. Yih},
+  {and} \bibinfo{person}{G. Zweig}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Linguistic {R}egularities in {C}ontinuous {S}pace
+  {W}ord {R}epresentations}. In \bibinfo{booktitle}{{\em NAACL HLT 2013}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Siegel}{Siegel}{1956}]%
+        {siegel1956nonparametric}
+\bibfield{author}{\bibinfo{person}{S. Siegel}.}
+  \bibinfo{year}{1956}\natexlab{}.
+\newblock \bibinfo{booktitle}{{\em {Nonparametric Statistics for the Behavioral
+  Sciences}}}.
+\newblock \bibinfo{publisher}{McGraw-Hill}.
+\newblock
+\showLCCN{56008185}
+
+
+\bibitem[\protect\citeauthoryear{Tao, Abel, Hauff, Houben, and Gadiraju}{Tao
+  et~al\mbox{.}}{2013}]%
+        {Tao-duplicate-tweets}
+\bibfield{author}{\bibinfo{person}{Ke Tao}, \bibinfo{person}{Fabian Abel},
+  \bibinfo{person}{Claudia Hauff}, \bibinfo{person}{Geert-Jan Houben}, {and}
+  \bibinfo{person}{Ujwal Gadiraju}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{{Groundhog Day: Near-duplicate Detection on
+  Twitter}}. In \bibinfo{booktitle}{{\em {Proc. World Wide Web (WWW)}}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vuli\'{c} and Moens}{Vuli\'{c} and
+  Moens}{2015}]%
+        {Vulic-sigir15}
+\bibfield{author}{\bibinfo{person}{Ivan Vuli\'{c}} {and}
+  \bibinfo{person}{Marie-Francine Moens}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{{Monolingual and Cross-Lingual Information
+  Retrieval Models Based on (Bilingual) Word Embeddings}}. In
+  \bibinfo{booktitle}{{\em {Proc. ACM SIGIR}}}. \bibinfo{pages}{363--372}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vuli\'{c}, Zoghbi, and Moens}{Vuli\'{c}
+  et~al\mbox{.}}{2014}]%
+        {Vulic-sigir14}
+\bibfield{author}{\bibinfo{person}{Ivan Vuli\'{c}}, \bibinfo{person}{Susana
+  Zoghbi}, {and} \bibinfo{person}{Marie-Francine Moens}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{{Learning to Bridge Colloquial and Formal Language
+  Applied to Linking and Search of E-Commerce Data}}. In
+  \bibinfo{booktitle}{{\em {Proc. ACM SIGIR}}}. \bibinfo{pages}{1195--1198}.
+\newblock
+
+
+\end{thebibliography}
